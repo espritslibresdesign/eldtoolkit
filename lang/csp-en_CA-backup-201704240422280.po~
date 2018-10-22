@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Support CharlesStPierre.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-18 20:23+0000\n"
+"PO-Revision-Date: 2016-10-18 20:25+0000\n"
+"Last-Translator: Charles St-Pierre <parlez@charlesstpierre.com>\n"
+"Language-Team: English (Canada)\n"
+"Language: en-CA\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: en_CA"
+
+#: includes/meta_descriptions.php:5 includes/meta_descriptions.php:5
+msgid "Meta Descriptions"
+msgstr "Meta Descriptions"
+
+#: includes/meta_descriptions.php:18
+msgid "Meta descriptions"
+msgstr "Meta descriptions"
+
+#: includes/meta_descriptions.php:19
+msgid ""
+"Les métas descriptions seront insérés dans les pages d’archives de contenus. "
+"Ces méta descriptions sont essentiels au classement dans les moteurs de "
+"recherches."
+msgstr ""
+"The meta descriptions will be inserted in post type archive pages. These "
+"meta descriptions are essential to search engine ranking"
+
+#: includes/meta_descriptions.php:38 includes/meta_descriptions.php:80
+msgid "Blogue"
+msgstr "Blog"
+
+#: includes/meta_descriptions.php:110
+msgid "Les méta descriptions ont été enregistrées avec success."
+msgstr "Meta descriptions saved."
+
+#: includes/better-widgets.php:38
+msgid "Les contenus les plus récents de votre site."
+msgstr "The latest content of your site."
+
+#: includes/better-widgets.php:40
+msgid "Contenus récents"
+msgstr "Recent content"
+
+#: includes/better-widgets.php:62
+msgid "Articles récents"
+msgstr "Recent posts"
+
+#: includes/better-widgets.php:165 includes/better-widgets.php:303 
+#: includes/better-widgets.php:388 includes/better-widgets.php:699
+msgid "Titre:"
+msgstr "Title:"
+
+#: includes/better-widgets.php:168
+msgid "Nombre d’éléments à afficher:"
+msgstr "Number of elements to display:"
+
+#: includes/better-widgets.php:171
+msgid "Afficher la date"
+msgstr "Display date"
+
+#: includes/better-widgets.php:172
+msgid "Afficher l’extrait"
+msgstr "Display excerpt"
+
+#: includes/better-widgets.php:173
+msgid "Afficher l’image à la une"
+msgstr "Display featured image"
+
+#: includes/better-widgets.php:176
+msgid "Type de contenus:"
+msgstr "Content Type:"
+
+#: includes/better-widgets.php:186
+msgid "Restreindre à une taxonomie:"
+msgstr "Limit to a taxonomy:"
+
+#: includes/better-widgets.php:199
+msgid "Choisir le terme:"
+msgstr "Choose the term:"
+
+#: includes/better-widgets.php:218
+msgid "Une liste ou un menu déroulant des termes d’une taxonomie."
+msgstr "A list or dropdown for taxonomy terms."
+
+#: includes/better-widgets.php:219
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: includes/better-widgets.php:225
+msgid "Catégories"
+msgstr "Categories"
+
+#: includes/better-widgets.php:267
+msgid "Voir %s"
+msgstr "See %s"
+
+#: includes/better-widgets.php:307
+msgid "Afficher le nombre de termes"
+msgstr "Display the number of terms"
+
+#: includes/better-widgets.php:310
+msgid "Afficher la hierarchie"
+msgstr "Display the hierarchy"
+
+#: includes/better-widgets.php:313
+msgid "Nombre de termes:"
+msgstr "Number of terms:"
+
+#: includes/better-widgets.php:316
+msgid "Classé par:"
+msgstr "Ordered by:"
+
+#: includes/better-widgets.php:318
+msgid "ID du terme"
+msgstr "Term ID"
+
+#: includes/better-widgets.php:319
+msgid "Nom"
+msgstr "Name"
+
+#: includes/better-widgets.php:320
+msgid "Nombre"
+msgstr "Number"
+
+#: includes/better-widgets.php:325
+msgid "Choisir la taxonomie"
+msgstr "Choose taxonomy"
+
+#: includes/better-widgets.php:346
+msgid "Un widget de recherche"
+msgstr "A search widget"
+
+#: includes/better-widgets.php:347 includes/menu-items.php:127
+msgid "Recherche"
+msgstr "Search"
+
+#: includes/better-widgets.php:360
+msgid "Recherche:"
+msgstr "Search:"
+
+#: includes/better-widgets.php:363
+msgctxt "Recherche... dans"
+msgid "dans"
+msgstr "in"
+
+#: includes/better-widgets.php:366
+msgid "Tout le site"
+msgstr "Entire site"
+
+#: includes/better-widgets.php:376
+msgid "Chercher"
+msgstr "Search"
+
+#: includes/better-widgets.php:390
+msgid "Chercher dans quel type de contenu:"
+msgstr "Search in which content"
+
+#: includes/better-widgets.php:391
+msgid "Tout"
+msgstr "Everything"
+
+#: includes/better-widgets.php:435
+msgid "Un texte, suivi d’un lien."
+msgstr "A text, followed by a link."
+
+#: includes/better-widgets.php:436
+msgid "Texte+lien"
+msgstr "Text+Link"
+
+#: includes/better-widgets.php:533
+msgid "Titre"
+msgstr "Title"
+
+#: includes/better-widgets.php:538 includes/better-widgets.php:704
+msgid "Classe de la boite"
+msgstr "Box Class"
+
+#: includes/better-widgets.php:543 includes/better-widgets.php:709
+msgid "Le texte"
+msgstr "The text"
+
+#: includes/better-widgets.php:548
+msgid "Le texte du lien"
+msgstr "The link’s text"
+
+#: includes/better-widgets.php:553 includes/better-widgets.php:721
+msgid "L’URL du lien"
+msgstr "The link’s URL"
+
+#: includes/better-widgets.php:568
+msgid "Image clicable, survolé d’une zone de texte."
+msgstr "Clickable image, with surimposed text."
+
+#: includes/better-widgets.php:569
+msgid "Bouton image"
+msgstr "Image button"
+
+#: includes/better-widgets.php:714
+msgid "L’ID de l’image"
+msgstr "Image ID"
+
+#: includes/better-widgets.php:715
+msgid "Requis."
+msgstr "Required."
+
+#: includes/better-widgets.php:716
+msgid "Les ID des images sont visibles dans la Liste des médias."
+msgstr "The image IDs are visible in the Media list."
+
+#: includes/better-widgets.php:723
+msgid "Si l’URL est interne au site, n’écrire que le ID du contenu."
+msgstr "If URL is internal, just write the post ID."
+
+#: includes/better-widgets.php:725
+msgid "Espace"
+msgstr "Space"
+
+#: includes/better-widgets.php:726
+msgid "Top"
+msgstr "Top"
+
+#: includes/better-widgets.php:728
+msgid "Left"
+msgstr "Left"
+
+#: includes/better-widgets.php:730
+msgid "Right"
+msgstr "Right"
+
+#: includes/better-widgets.php:735
+msgid "Couleur du text"
+msgstr "Text color"
+
+#: includes/better-widgets.php:738
+msgid "Ombre de texte?"
+msgstr "Drop shadow?"
+
+#: includes/dashboardwidget.php:16
+msgid "Support CharlesStPierre.com"
+msgstr "Support CharlesStPierre.com"
+
+#: includes/dashboardwidget.php:35
+msgid "Votre IP actuel (%s) n’est pas sur la liste blanche."
+msgstr "Your current IP (%s) is not on the whitelist."
+
+#: includes/dashboardwidget.php:36
+msgid ""
+"Si cette ordinateur n’est pas public, et que vous l’utilisez fréquemment, "
+"<%s>ajoutez votre IP à la liste blanche<%s>."
+msgstr ""
+"If this computer is not public and you use it often, <%s>add your IP to the "
+"whitelist<%s>."
+
+#: includes/dashboardwidget.php:47
+msgid "<strong>Erreur RSS</strong>: %s"
+msgstr "<strong>Error RSS</strong>: %s"
+
+#: includes/dashboardwidget.php:50
+msgid "Communiqués:"
+msgstr "Announcements:"
+
+#: includes/dashboardwidget.php:72
+msgid "Besoin d’un coup de main? Je demeure à votre disposition."
+msgstr "Need a hand? I’m always available."
+
+#: includes/dashboardwidget.php:74
+msgid "Espace client"
+msgstr "Client area"
+
+#: includes/dashboardwidget.php:75
+msgid "Demande de support"
+msgstr "Support request"
+
+#: includes/dashboardwidget.php:76
+msgid "Base de connaissances"
+msgstr "Knowledge base"
+
+#: includes/dashboardwidget.php:76
+msgid "Bientôt"
+msgstr "Soon"
+
+#: includes/emailshield.php:57
+msgctxt "Bot protect @ symbole replacement"
+msgid "à"
+msgstr "at"
+
+#: includes/emailshield.php:57
+msgctxt "Bot protect dot symbole replacement"
+msgid "point"
+msgstr "dot"
+
+#: includes/menu-items.php:19
+msgctxt "Post type archive menu item"
+msgid "Archive de contenus"
+msgstr "Content archive"
+
+#: includes/menu-items.php:21
+msgid "Utilitaires"
+msgstr "Utilities"
+
+#: includes/menu-items.php:77 includes/menu-items.php:80
+msgid "Formulaire de recherche"
+msgstr "Search form"
+
+#: includes/menu-items.php:86 includes/menu-items.php:89
+msgid "Connexion"
+msgstr "Login"
+
+#: includes/menu-items.php:95 includes/menu-items.php:98
+msgid "Déconnexion"
+msgstr "Logout"
+
+#: includes/menu-items.php:126 includes/menu-items.php:135
+msgid "Rechercher"
+msgstr "Search"
+
+#: includes/menu-items.php:128
+msgid "Lancer la recherche"
+msgstr "Do search"
+
+#: includes/meta_descriptions.php:30 includes/meta_descriptions.php:78 
+#: includes/theme_helper.class.php:183
+msgid "Accueil"
+msgstr "Home"
+
+#: includes/security.php:222
+msgid "<b>Risque de sécurité:</b>"
+msgstr "Security risk:"
+
+#: includes/security.php:223
+msgid "un utilisateur possède un pseudonyme identique à son identifiant."
+msgid_plural ""
+"%1$s utilisateurs possèdent des pseudonymes identiques à leur identifiants."
+msgstr[0] "a user has an alias identical to its username."
+msgstr[1] "%1$s users have alias identical to their username."
+
+#: includes/security.php:286 includes/security.php:286
+msgid "Sécurité"
+msgstr "Security"
+
+#: includes/security.php:309
+msgid "L’IP est invalide."
+msgstr "The IP is invalid."
+
+#: includes/security.php:314
+msgid "L’IP n’est pas sur la liste noir."
+msgstr "The IP is NOT on the blacklist."
+
+#: includes/security.php:317
+msgid "L’IP est présent sur la liste noir."
+msgstr "The IP is on the blacklist."
+
+#: includes/security.php:386
+msgid "Sécurité du site"
+msgstr "Website Security"
+
+#: includes/security.php:394
+msgid "Votre adresse IP"
+msgstr "Your IP address"
+
+#: includes/security.php:397
+msgid "Ajouter à la liste blanche"
+msgstr "Add IP address to whitelist"
+
+#: includes/security.php:401
+msgid "Liste blanche"
+msgstr "Whitelist"
+
+#: includes/security.php:403
+msgid ""
+"Les adresses IP de la liste blanche ne subiront aucune vérification de "
+"sécurité."
+msgstr ""
+"The IP addresses of the whitelist will not be subject to security "
+"verification."
+
+#: includes/security.php:406 includes/security.php:437
+msgid "Ajouter"
+msgstr "Add"
+
+#: includes/security.php:410
+msgid "Aucune adresse IP dans la liste blanche."
+msgstr "No IP address in the whitelist."
+
+#: includes/security.php:422
+msgid "Liste noire"
+msgstr "Blacklist"
+
+#: includes/security.php:424
+msgid ""
+"Les adresses IP de la liste noire ne peuvent se connecter à l’admin et son "
+"passible d’un blocage complet à l’accès du site."
+msgstr ""
+"IP addresses from the blacklist can not connect to the admin and liable to a "
+"complete blockage to access the site."
+
+#: includes/security.php:425
+msgid "Il y a présentement %s adresses IP sur la liste noir."
+msgstr "Currently %s IP addresses on the blacklist."
+
+#: includes/security.php:428
+msgid "Chercher dans la liste noir"
+msgstr "Search in blacklist"
+
+#: includes/security.php:430
+msgid "Retirer de la liste noir"
+msgstr "Remove from blacklist"
+
+#: includes/security.php:592
+msgid "Vous êtes sur la liste noir. Contactez l’administrateur du site."
+msgstr "You are on the blacklist. Contact website administrator."
+
+#: includes/security.php:610
+msgid ""
+"<strong>Mauvais identifiant ou mot de passe.</strong><br />Vous deviez "
+"attendre jusqu’à %s avant de tenter une connexion. Vous devez maintenant 15 "
+"minutes (jusqu’à %s) avant de tenter une connexion."
+msgstr ""
+"<Strong>Bad username or password.</ Strong> <br /> You had to wait until %s "
+"before attempting a connection. You now have 15 minutes (until %s) before "
+"attempting a connection."
+
+#: includes/security.php:610 includes/security.php:610 
+#: includes/security.php:620 includes/security.php:620 
+#: includes/security.php:627
+msgctxt "Heure et minute"
+msgid "H\\hi"
+msgstr "H:i"
+
+#: includes/security.php:620
+msgid ""
+"<strong>Mauvais identifiant ou mot de passe.</strong><br />Vous deviez "
+"attendre jusqu’à %s avant de tenter une connexion. Vous devez maintenant 60 "
+"minutes (jusqu’à %s) avant de tenter une connexion."
+msgstr ""
+"<Strong>Bad username or password.</ Strong> <br /> You had to wait until %s "
+"before attempting a connection. You now have 60 minutes (until %s) before "
+"attempting a connection."
+
+#: includes/security.php:627
+msgid ""
+"<strong>Mauvais identifiant ou mot de passe.</strong><br />Vous deviez "
+"attendre jusqu’à %s avant de tenter une connexion. Vous êtes maintenant sur "
+"la liste noir. Contactez l’administrateur du site."
+msgstr ""
+"<Strong>Bad username or password.</ Strong> <br /> You had to wait until %s "
+"before attempting a connection. You are now on the blacklist. Please contact "
+"website administrator."
+
+#: includes/security.php:635
+msgid ""
+"<strong>Mauvais identifiant ou mot de passe.</strong><br />Il vous reste 3 "
+"chances sur 5 de vous connecter. <a href=\"%1$s\">Mot de passe oublié ?</a>"
+msgstr ""
+"<Strong>Bad username or password.</ Strong> <br /> You have 3 chances out of "
+"5 to connect. <a href=\"%1$s\">Forgot your password?</a>"
+
+#: includes/security.php:636
+msgid ""
+"<strong>Mauvais identifiant ou mot de passe.</strong><br />Il ne vous reste "
+"que 2 chances sur 5 de vous connecter. Nous vous suggerons fortement "
+"d’utiliser la fonction <a href=\"%1$s\">Mot de passe oublié ?</a>."
+msgstr ""
+"<Strong>Bad username or password.</ Strong> <br /> You have 2 chances out of "
+"5 to connect. We strongly suggest to use the <a href=\"%1$s\"> Forgot your "
+"password? </a> link."
+
+#: includes/security.php:637
+msgid ""
+"<strong>Mauvais identifiant ou mot de passe.</strong><br />Il ne vous reste "
+"qu’une seule chance de vous connecter. Vous devrez attendre 5 minutes avant "
+"de réessayer. <a href=\"%1$s\">Mot de passe oublié ?</a>"
+msgstr ""
+"<Strong>Bad username or password.</ Strong> <br />You only get one last "
+"chance to connect. You will have to wait 5 minutes before trying again. <a "
+"href=\"%1$s\"> Forgot your password? </a>"
+
+#: includes/security.php:638
+msgid ""
+"<strong>Mauvais identifiant ou mot de passe.</strong><br />Vous avez atteint "
+"la limite de tentative de connexion. Vous devez maintenant attendre 5 "
+"minutes avant de réessayer. <a href=\"%1$s\">Mot de passe oublié ?</a>"
+msgstr ""
+"<Strong>Bad username or password.</ Strong><br />You have reached the limit "
+"login attempts. You must now wait 5 minutes before trying again. <a "
+"href=\"%1$s\"> Forgot your password? </a>"
+
+#: includes/security.php:658
+msgid ""
+"<strong>Mauvais identifiant ou mot de passe.</strong><br />Il vous reste 4 "
+"chances sur 5 de vous connecter. <a href=\"%1$s\">Mot de passe oublié ?</a>"
+msgstr ""
+"<Strong>Bad username or password.</ Strong> <br /> You have 4 chances out of "
+"5 to connect. <a href=\"%1$s\">Forgot your password?</a>"
+
+#: includes/theme_helper.class.php:211
+msgid "Vous êtes ici:"
+msgstr "You are here:"
+
+#: includes/theme_helper.class.php:381 includes/theme_helper.class.php:394 
+#: includes/theme_helper.class.php:414
+msgid "<%1$s %2$s>Archive de </%1$s>%3$s"
+msgstr "<%1$s %2$s>Archive of </%1$s>%3$s"
+
+#: includes/theme_helper.class.php:401 includes/theme_helper.class.php:421
+msgid "<%1$s %2$s>Archive de </%1$s>%3$s<%1$s %2$s> %4$s</%1$s>"
+msgstr "<%1$s %2$s>Archive of </%1$s>%3$s<%1$s %2$s> %4$s</%1$s>"
+
+#: includes/theme_helper.class.php:428
+msgid "<%1$s %2$s>Archive du </%1$s>%3$s<%1$s %2$s> %4$s %5$s</%1$s>"
+msgstr "<%1$s %2$s>Archive of </%1$s>%3$s<%1$s %2$s> %4$s %5$s</%1$s>"
+
+#: includes/theme_helper.class.php:474
+msgid "Recherche pour «%s»"
+msgstr "Search for “%s”"
+
+#: includes/theme_helper.class.php:486 includes/theme_helper.class.php:564 
+#: includes/theme_helper.class.php:675
+msgid "Page non trouvée"
+msgstr "Page not found"
+
+#: includes/theme_helper.class.php:507
+msgid "%2$s «%1$s»"
+msgstr "%2$s “%1$s”"
+
+#: includes/theme_helper.class.php:514
+msgid "Archive de %1$s"
+msgstr "Archive of %1$s"
+
+#: includes/theme_helper.class.php:520
+msgctxt "Month archive"
+msgid "Archive de %1$s"
+msgstr "Archive of %1$s"
+
+#: includes/theme_helper.class.php:521 includes/theme_helper.class.php:624
+msgctxt "Month archive date pattern"
+msgid "F Y"
+msgstr "F Y"
+
+#: includes/theme_helper.class.php:527
+msgctxt "Day archive"
+msgid "Archive du %1$s"
+msgstr "Archive of %1$s"
+
+#: includes/theme_helper.class.php:528 includes/theme_helper.class.php:631
+msgctxt "Day archive date pattern"
+msgid "j F Y"
+msgstr "j F Y"
+
+#: includes/theme_helper.class.php:534
+msgctxt "Author archive"
+msgid "%s"
+msgstr "%s"
+
+#: includes/theme_helper.class.php:541 includes/theme_helper.class.php:548
+msgctxt "Post type archive"
+msgid "%s"
+msgstr "%s"
+
+#: includes/theme_helper.class.php:610
+msgid "Les contenus dans %2$s «%1$s». %3$s"
+msgstr "Posts in %2$s “%1$s”. %3$s"
+
+#: includes/theme_helper.class.php:617
+msgid "Archive de %1$s. %2$s"
+msgstr "Archive of %1$s. %2$s"
+
+#: includes/theme_helper.class.php:623
+msgctxt "Month archive"
+msgid "Archive de %1$s. %2$s"
+msgstr "Archive of %1$s. %2$s"
+
+#: includes/theme_helper.class.php:630
+msgctxt "Day archive"
+msgid "Archive du %1$s. %2$s"
+msgstr "Archive of %1$s. %2$s"
+
+#: includes/theme_helper.class.php:826
+msgid "ou"
+msgstr "or"
+
+#: includes/theme_helper.class.php:830
+msgid "et"
+msgstr "and"
+
+#: includes/tinymce.php:51
+msgid "Éléments blocs"
+msgstr "Block elements"
+
+#: includes/tinymce.php:66 includes/tinymce.php:69
+msgid "Liste de définitions"
+msgstr "Definition list"
+
+#: includes/tinymce.php:73
+msgid "Terme"
+msgstr "Term"
+
+#: includes/tinymce.php:77
+msgid "Définition"
+msgstr "Definition"
+
+#: includes/tinymce.php:85
+msgid "Style de caractères"
+msgstr "Character style"
+
+#: includes/tinymce.php:88
+msgid "Couleur de contraste"
+msgstr "Contrast color"
+
+#: includes/tinymce.php:93
+msgid "Surligné"
+msgstr "Highlighted"
+
+#: includes/tinymce.php:98
+msgid "Petit texte"
+msgstr "Small text"
+
+#: includes/tinymce.php:102
+msgid "Citation à l’intérieur d’un texte"
+msgstr "Inline quote"
+
+#: includes/tinymce.php:108
+msgid "Ramener à la ligne (clear)"
+msgstr "Clear float"
+
+#: includes/welcomeemail.php:11
+msgid "[site_name]| Vos informations de connexion"
+msgstr "[site_name]| Your login informations"
+
+#: includes/welcomeemail.php:12
+msgid ""
+"Vous avez été inscrit au site [site_name].<br /><br />Votre nom "
+"d’utilisateur: [user_login]<br /><br />Configurez votre mot de passe à "
+"l’adresse suivante:<br />[set_pass_url]"
+msgstr ""
+"You have been registered on the website [site_name] <br /> <br /> Your "
+"username. [user_login] <br /> <br /> Set your password to the following "
+"address: <br /> [set_pass_url]"
+
+#: includes/welcomeemail.php:13
+msgid "[site_name]| Inscription d’un nouvel utilisateur"
+msgstr "[site_name]| New user subscription"
+
+#: includes/welcomeemail.php:14
+msgid ""
+"Nouvel utilisateur sur votre site [site_name]<br /><br />Nom d’utilisateur: "
+"[user_login]<br />Courriel: [user_email]"
+msgstr ""
+"New user on your site [site_name] <br /> <br /> Username: [user_login] <br />"
+" Email: [user_email]"
+
+#: includes/welcomeemail.php:23
+msgid "[site_name]| Mot de passe oublié"
+msgstr "[site_name]| Lost password"
+
+#: includes/welcomeemail.php:24
+msgid ""
+"Il a été demandé de réinitialiser votre mot de passe pour l’utilisateur "
+"[user_login] sur le site [site_name].<br /><br />Si vous n’avez pas fait "
+"cette demande, ignorez ce courriel et votre mot de passe demeurera inchangé."
+"<br /><br />Pour réinitialiser votre mot de passe, visitez le lien suivant: "
+"[reset_pass_url]"
+msgstr ""
+"Someone asked to reset your password for user [user_login] on [site_name]. "
+"<br /> <br /> If you have not made that request, ignore this email and your "
+"password remain unchanged.<br /> <br /> To reset your password, visit the "
+"following link: [reset_pass_url]"
+
+#: includes/welcomeemail.php:43 includes/welcomeemail.php:43 
+#: includes/welcomeemail.php:113
+msgid "Messages système"
+msgstr "System messages"
+
+#: includes/welcomeemail.php:52
+msgid "Options générales"
+msgstr "General options"
+
+#: includes/welcomeemail.php:53
+msgid "Courriel «De»"
+msgstr "“FROM” email"
+
+#: includes/welcomeemail.php:54
+msgid "Nom «De»"
+msgstr "“FROM” name"
+
+#: includes/welcomeemail.php:56
+msgid "Courriel de bienvenue"
+msgstr "Welcome email"
+
+#: includes/welcomeemail.php:57 includes/welcomeemail.php:63 
+#: includes/welcomeemail.php:68
+msgid "Sujet"
+msgstr "Subject"
+
+#: includes/welcomeemail.php:58 includes/welcomeemail.php:64 
+#: includes/welcomeemail.php:69
+msgid "Message"
+msgstr "Message"
+
+#: includes/welcomeemail.php:59
+msgid "Courriel «Répondre à»"
+msgstr "REPLY-TO email"
+
+#: includes/welcomeemail.php:60
+msgid "Entêtes supplémentaires"
+msgstr "Extra headers"
+
+#: includes/welcomeemail.php:62
+msgid "Notification de l’administrateur"
+msgstr "Administrator notification"
+
+#: includes/welcomeemail.php:65
+msgid "Choix des administrateurs"
+msgstr "Administrator choice"
+
+#: includes/welcomeemail.php:67
+msgid "Rappel de mot de passe"
+msgstr "Password reminder"
+
+#: includes/welcomeemail.php:108
+msgid "Vous n’avez pas les droits suffisants pour accéder à cette page"
+msgstr "You do not have sufficient permission to access this page"
+
+#: includes/welcomeemail.php:120
+msgid "Enregistrer les modifications et tester les messages"
+msgstr "Update modifications and test the messages"
+
+#: includes/welcomeemail.php:131
+msgid "Ces configurations affectent tous les courriels envoyés par le site."
+msgstr ""
+"These settings effect all of this plugin and, in some cases, all of your "
+"site."
+
+#: includes/welcomeemail.php:139
+msgid "Change l’adresse d’origine de tous les courriels du site."
+msgstr "Global option change the from email address for all site emails"
+
+#: includes/welcomeemail.php:147
+msgid "Change le nom d’origine de tous les courriels du site."
+msgstr "Global option change the from name for all site emails"
+
+#: includes/welcomeemail.php:160
+msgid ""
+"Ces configurations s’appliquent aux courriels envoyés aux nouveaux "
+"utilisateurs."
+msgstr "These settings are for the email sent to the new user on their signup."
+
+#: includes/welcomeemail.php:167
+msgid "Sujet du courriel envoyé au nouvel utilisateur."
+msgstr "Subject line for the welcome email sent to the user."
+
+#: includes/welcomeemail.php:184 includes/welcomeemail.php:304
+msgid "Message du courriel envoyé au nouvel utilisateur."
+msgstr "Body content for the welcome email sent to the user."
+
+#: includes/welcomeemail.php:191
+msgid "Optionnel. Adresse de réponse du courriel envoyé au nouvel utilisateur."
+msgstr "Optional. Email reply address sent to the new user."
+
+#: includes/welcomeemail.php:200
+msgid ""
+"Optionnel. Entêtes supplémentaires pour utilisateurs averties. Séparer "
+"chaque entêtes par \\r\\n."
+msgstr ""
+"Optional field for advanced users to add more headers. Don’t forget to "
+"separate headers with \\r\\n."
+
+#: includes/welcomeemail.php:210
+msgid ""
+"Ces configurations s’appliquent aux courriels envoyés aux administrateurs "
+"lors de l’inscription de nouveaux utilisateurs."
+msgstr ""
+"These settings are for the email sent to the admin on a new user signup."
+
+#: includes/welcomeemail.php:216
+msgid "Sujet du courriel envoyé aux administrateurs sélectionnés."
+msgstr "Subject line of the email sent to selected administrators."
+
+#: includes/welcomeemail.php:233
+msgid "Message du courriel envoyé aux administrateurs sélectionnés."
+msgstr "Message of the email sent to selected administrators."
+
+#: includes/welcomeemail.php:273
+msgid "Sélectionnez les administrateurs qui recevront ce message."
+msgstr "Select which administrators will receive the message."
+
+#: includes/welcomeemail.php:282
+msgid ""
+"Ces configurations s’appliquent aux courriels envoyés pour renouveller les "
+"mots de passe."
+msgstr ""
+"These settings are for the email sent to the admin on a new user signup."
+
+#: includes/welcomeemail.php:288
+msgid "Sujet du courriel envoyé à l’utilisateur."
+msgstr "Subject of the email sent to the user."
+
+#: includes/GitHub-Plugin-Updater/updater.php:234
+msgid "Information unavailable"
+msgstr "Information unavailable"
+
+msgid "Fonctionnalités de support et personnalisation"
+msgstr "Support and customization features"
+
+msgid "http://charlesstpierre.com"
+msgstr "http://charlesstpierre.com"
+
+msgid "Charles St-Pierre"
+msgstr "Charles St-Pierre"

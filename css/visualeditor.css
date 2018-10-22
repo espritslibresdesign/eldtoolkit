@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+.mce-ico.mce-i-narrownonbreaking:before{
+    content:'‖';
+    font-family:inherit !important;
+}
+
+.mce-nnbsp,.mce-nbsp{
+    position:relative;
+    display:inline-block;
+    background-color:transparent;
+}
+.mce-nbsp:before,.mce-nnbsp:before{
+    position:absolute;
+    color:#0073aa;
+}
+.mce-nnbsp:before{
+    content:'∣';
+}
+
+.mce-nbsp:before{
+    content:'•';
+}

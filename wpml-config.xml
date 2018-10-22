@@ -1,0 +1,18 @@
+<wpml-config>
+    <admin-texts>
+        <key name="sm_settings">
+            <key name="user_subject" />
+            <key name="user_body" />
+            <key name="admin_subject" />
+            <key name="admin_body" />
+            <key name="password_reminder_subject" />
+            <key name="password_reminder_body" />
+            <key name="header_from_name" />
+        </key>
+        <key name="date_format" />
+        <key name="time_format" />
+        <key name="links_updated_date_format" />
+    </admin-texts>    
+</wpml-config>
+
+
